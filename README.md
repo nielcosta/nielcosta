@@ -2,12 +2,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nielcosta/images/blob/main/fundo-github.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Sou ❤️ amante da tecnlogia! <br><br> Formado em Sistemas de Informação <strong> e vendo na programação </strong> um grande estímulo de enfrentar a cada dia novos desafios! </p>&nbsp;
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=nielcosta&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000001">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nielcosta&layout=compact&hide_border=true&theme=darcula&bg_color=00000001&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=nielcosta&theme=darcula&hide_border=true&background=00000000">
   <br>
   <br>
   <a href="https://www.buymeacoffee.com/nielcosta"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="nielcosta" /></a>
