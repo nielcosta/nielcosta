@@ -12,9 +12,9 @@
 
 # Sejam bem vindos ! 
 
-💼 Formado em Sistemas de Informação. <br>
+💼 Desenvolvedor Front End  <br>
 😍 Amante da Tecnologia e Inteligências Artificiais <br>
-🐱‍👤 Desafiando sempre os limites !
+🐱‍👤 Um novo desafio a cada dia - Sempre estudando !
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nielcosta&theme=radical&mode=weekly" />
@@ -27,6 +27,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
