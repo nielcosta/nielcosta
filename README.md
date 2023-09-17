@@ -1,7 +1,7 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nielcosta/images/blob/main/fundo-github.png" />
+<img align="center" width=100% src="https://github.com/nielcosta/images/blob/main/fundo-github.png" />
 &nbsp;&nbsp;&nbsp;
-<div align="right" style="margin-top:-100px;"> 
+<div align="right" style ="margin-top:-100px"/> 
 <a href="https://www.instagram.com/danimendes.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.nielcosta@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
