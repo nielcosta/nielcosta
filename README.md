@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nielcosta/images/blob/main/fundo-github.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Sou ❤️ amante da tecnlogia! <br><br> Formado em Sistemas de Informação <strong> e vendo na programação </strong> a alegria de ajudar aos outros enfrentando a cada dia novos desafios! </p>&nbsp;
+<p align="center">Sou ❤️ amante da tecnlogia! <br><br> Formado em Sistemas de Informação <strong> e vendo na programação </strong> um grande estímulo de enfrentar a cada dia novos desafios! </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nielcosta&theme=radical&mode=weekly" />
