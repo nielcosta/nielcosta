@@ -1,5 +1,5 @@
 
-<img align="center" width=100% src="https://github.com/nielcosta/images/blob/main/fundo-github.png" />
+<img align="center" width=100%; height=auto; src="https://github.com/nielcosta/images/blob/main/fundo-github.png" />
 &nbsp;&nbsp;&nbsp;
  <a href="https://www.buymeacoffee.com/nielcosta"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 
@@ -62,10 +62,4 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-  
- 
-
 
