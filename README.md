@@ -12,7 +12,7 @@
 
 # Sejam bem vindos ! 
 
-💼 Desenvolvedor Front End  <br>
+💼 Desenvolvedor | Analista de Sistemas <br>
 😍 Amante da Tecnologia e Inteligências Artificiais <br>
 🐱‍👤 Um novo desafio a cada dia - Sempre estudando !
 
