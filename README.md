@@ -6,9 +6,7 @@
 </a>
 <a href = "mailto:contato.nielcosta@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danielcmendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
 </div>&nbsp;&nbsp;
-
 
 
 # Sejam bem vindos ! 
@@ -17,28 +15,21 @@
 😍 Amante da Tecnologia e Inteligências Artificiais <br>
 🐱‍👤 Desafiando sempre os limites !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielcosta&show_icons=true&theme=gruvbox)
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nielcosta&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=nielcosta&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 ## My Skills
 
 #### Main Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![image](https://github.com/nielcosta/nielcosta/assets/145233130/afceea22-c1ab-4e34-93da-80bd79ca77ad)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-
-
-
-#### Secondary Stack:
-
-![image](https://github.com/nielcosta/nielcosta/assets/145233130/0b591781-3928-4066-871d-eddc8df9d668)
-![image](https://github.com/nielcosta/nielcosta/assets/145233130/534b2cd9-dada-4ded-8086-40defdc85598)
-![image](https://github.com/nielcosta/nielcosta/assets/145233130/bebdf343-1342-4dc9-98be-68888274e332)
-![image](https://github.com/nielcosta/nielcosta/assets/145233130/bcfabeed-2a8c-4953-b2b0-37d9bd993f05)
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
 
 
 #### Studying in this moment:
@@ -55,24 +46,13 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![image](https://github.com/nielcosta/nielcosta/assets/145233130/4848595a-b174-4aa4-88dc-3a6c07b65ffb)
 
 
 &nbsp;
 &nbsp;
 
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/danimendes.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.nielcosta@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/danielcmendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
 </div>&nbsp;&nbsp;
- 
-
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
