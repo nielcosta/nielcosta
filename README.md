@@ -1,16 +1,23 @@
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/nielcosta/images/blob/main/fundo-github.png" />
 &nbsp;&nbsp;&nbsp;
+<div align="right" style="margin-top:-100px;"> 
+<a href="https://www.instagram.com/danimendes.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.nielcosta@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/danielcmendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/nielcosta"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="nielcosta" /></a>
-</p>
- 
- &nbsp;
- &nbsp;
+</div>&nbsp;&nbsp;
 
 
+
+# Sejam bem vindos ! 
+
+💼 Formado em Sistemas de Informação. <br>
+😍 Amante da Tecnologia e Inteligências Artificiais <br>
+🐱‍👤 Desafiando sempre os limites !
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nielcosta&show_icons=true&theme=gruvbox)
 
 ## My Skills
 
@@ -23,7 +30,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 #### Secondary Stack:
 
