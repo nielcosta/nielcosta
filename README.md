@@ -5,8 +5,8 @@
 <p align="center">Sou ❤️ amante da tecnlogia! <br><br> Formado em Sistemas de Informação <strong> e vendo na programação </strong> a alegria de ajudar aos outros enfrentando a cada dia novos desafios! </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nielcosta&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=nielcosta&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
